@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test dumps & local outputs
+diagnostic_output.json
+timeline_dump.json
+report.json
+report.md
+export.jsx
+
+# Local IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+PROJECT_CONTEXT.md
